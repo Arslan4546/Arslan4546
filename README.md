@@ -1,4 +1,3 @@
-![logi](https://github.com/Arslan4546/Arslan4546/blob/main/b.png)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Arslan!;" />
 </h1>
