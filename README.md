@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="arslan4546" /> </p>
+
 
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/arslan4546)
 <h1 align="center">
@@ -11,6 +11,7 @@
 <br/>
 
 <img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coder GIF" width="380" height="280">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="arslan4546" /> </p>
 <h3>🚀 About Me</h3> 
 <h4> I'm Arslan, a dedicated Flutter Developer hailing from Pakistan. My passion for programming languages and frameworks fuels my continuous learning journey. I find great satisfaction in translating designs into seamless implementations. Currently, I am honing my skills as a junior Flutter Developer, committed to constant growth and advancement in my field. </h4>
 
