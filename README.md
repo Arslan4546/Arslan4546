@@ -7,7 +7,7 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'YOUR_TRACKING_ID');
+    gtag('config', '451894836');
   </script>
 </head>
 </html>
