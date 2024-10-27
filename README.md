@@ -33,9 +33,9 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 | Project        | Description                                                 | Link                                |
 |----------------|-------------------------------------------------------------|-------------------------------------|
-| 📱 **Flutter Portfolio** | A personal portfolio app showcasing my projects.   | [View Project](https://github.com/arslan4546/flutter-portfolio) |
-| 🛍 **Shopping App**       | A fully-functional shopping app with API integration. | [View Project](https://github.com/arslan4546/shopping-app) |
-| 🌦 **Weather App**        | An app that uses a weather API to display forecasts. | [View Project](https://github.com/arslan4546/weather-app) |
+| 📱 **Gemini Chat App** | This app provides accurate responses and intelligent suggestions   | [View Project](https://github.com/Arslan4546/Gemini-Chat-App) |
+| 🧘‍♂️ **TeachNTrack App**       | Designed to streamline educational processes for students, teachers, and administrators alike.. | [View Project](https://github.com/Arslan4546/TeachNTrack-App) |
+| 💪 **Fitness App**        | Fitness app is designed to help you achieve your health goals easily.. | [View Project](https://github.com/Arslan4546/Flutter-Fitness-App) |
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
