@@ -26,6 +26,16 @@ My passion for programming languages and frameworks fuels my continuous learning
 - 📫 Reach me at **arslantariq4546@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
 
+
+---
+
+### 🌌 Recent Projects
+
+| Project        | Description                                                 | Link                                |
+|----------------|-------------------------------------------------------------|-------------------------------------|
+| 📱 **Flutter Portfolio** | A personal portfolio app showcasing my projects.   | [View Project](https://github.com/arslan4546/flutter-portfolio) |
+| 🛍 **Shopping App**       | A fully-functional shopping app with API integration. | [View Project](https://github.com/arslan4546/shopping-app) |
+| 🌦 **Weather App**        | An app that uses a weather API to display forecasts. | [View Project](https://github.com/arslan4546/weather-app) |
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
@@ -53,7 +63,10 @@ My passion for programming languages and frameworks fuels my continuous learning
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+
+
 ---
+
 
 <h3 align="center">GitHub Activity</h3>
 <div align="center">
@@ -84,3 +97,14 @@ My passion for programming languages and frameworks fuels my continuous learning
 <div align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="Footer Banner" />
 </div>
+
+---
+
+### 😂 Quick Laugh Break!
+
+
+<p align="center">
+    <b>Q:</b> Why do developers love dark mode? 🌙 <br>
+    <b>A:</b> Because light attracts bugs! 🐛🤣
+</p>
+
