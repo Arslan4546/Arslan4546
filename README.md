@@ -10,7 +10,7 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="380" height="280">
 
-### 🚀 About Me  
+### 👨‍🎓 About Me  
 **I'm Arslan, a dedicated Flutter Developer from Pakistan.**  
 My passion for programming languages and frameworks fuels my continuous learning journey. I find great satisfaction in translating designs into seamless implementations. Currently, I'm honing my skills as a junior Flutter Developer, driven by a commitment to constant growth in the field.
 
