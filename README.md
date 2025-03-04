@@ -117,11 +117,12 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 ---
 
-### 😂 Quick Laugh Break!
+### Fun Facts!
 
 
 <p align="center">
-    <b>Q:</b> Why do developers love dark mode? 🌙 <br>
-    <b>A:</b> Because light attracts bugs! 🐛🤣
+ I don't like coffee or tea.<br>
+ Outside of coding, I enjoy drawing.<br>
+ Demon Slayer is my favorite anime.<br>
 </p>
 
