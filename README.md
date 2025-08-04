@@ -28,7 +28,14 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 
 ---
+### 🌍 Location  
+**Bahawalpur, Punjab, Pakistan 🇵🇰**
 
+### 🎓 Education  
+**BS Computer Science**  
+*Islamia Unversity Bahawalpur*
+
+---
 ### 🌌 Recent Projects
 
 | Project        | Description                                                 | Link                                |
@@ -116,13 +123,50 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 
 ---
+</div>
 
-### Fun Facts!
+## 👨‍💼 Life Progress
+
+<div align="center">
+
+| Life Milestone      | Progress                                     | Status        |
+|:--------------------|:---------------------------------------------:|:--------------:|
+| 🎂 **Born**         | ████████████████████████████████             | ✅ Complete     |
+| 🎓 **Education**    | ██████████████████░░░░░░░░░░░░░░              | 🔄 In Progress |
+| 💼 **Get a Job**    | ████████████████░░░░░░░░░░░░░░░░              | 🔄 In Progress |
+| 💍 **Get Married**  | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░              | ⏳ Pending     |
+| 👶 **Have Children**| ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░              | ⏳ Future      |
+| ⚰️ **Die**          | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░              | ❌ Not Yet!    |
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Daily Dev Inspiration
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Support My Work
 
 
-<p align="center">
- I don't like coffee or tea.<br>
- Outside of coding, I enjoy drawing.<br>
- Demon Slayer is my favorite anime.<br>
+
+---
+</div>
+
+### <**Interested in collaborating?>** 
+- 💼 Open for freelance projects
+- 🤝 Looking to contribute to open source
+- 📝 Available for technical writing
+- 🎯 Ready for new challenges and opportunities
+
+*Let's build the future together!* 🚀
+-->
+### 🎉 Fun Facts!
+<p>
+ ☕ I don't like coffee or tea.
+🎨 Outside of coding, I enjoy drawing.
+👹 Demon Slayer is my favorite anime.
 </p>
 
