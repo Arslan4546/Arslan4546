@@ -19,21 +19,21 @@ My passion for programming languages and frameworks fuels my continuous learning
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="arslan4546" /> </p>
 
 - 🔭 I’m currently working on **[Flutter Projects](https://github.com/arslan4546)**
-- 🌱 I’m currently learning **Flutter APIs**
+- 🌱 I’m currently learning **APIs and State Management**
 - 👯 I’m looking to collaborate on **interesting projects**
 - 👨‍💻 My complete portfolio is available at [https://github.com/arslan4546](https://github.com/arslan4546)
-- 💬 Ask me about **Flutter, Dart, and Web Development**
+- 💬 Ask me about **Dart and Flutter Development**
 - 📫 Reach me at **arslantariq4546@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
 
 
 ---
 ### 🌍 Location  
-**Bahawalpur, Punjab, Pakistan 🇵🇰**
+**Lahore, Punjab, Pakistan 🇵🇰**
 
 ### 🎓 Education  
 **BS Computer Science**  
-*Islamia Unversity Bahawalpur*
+*Islamia University Bahawalpur*
 
 ---
 ### 🌌 Recent Projects
