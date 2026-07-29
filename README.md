@@ -3,16 +3,33 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Arslan!;" />
 </h1>
-
 <div align="center">
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px">
 </div>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="380" height="280">
+<table>
+<tr>
+<td width="58%" valign="top">
 
-### 👨‍🎓 About Me  
-**I'm Arslan, a dedicated Flutter Developer from Pakistan.**  
-My passion for programming languages and frameworks fuels my continuous learning journey. I find great satisfaction in translating designs into seamless implementations. Currently, I'm honing my skills as a junior Flutter Developer, driven by a commitment to constant growth in the field.
+### 👨‍🎓 About Me
+
+**I'm Arslan, a dedicated Flutter Developer from Pakistan.**
+
+My passion for programming languages and frameworks fuels my continuous learning journey.
+
+I find great satisfaction in translating designs into seamless implementations.
+
+Currently, I'm honing my skills as a junior Flutter Developer, driven by a commitment to constant growth in the field.
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="340"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
