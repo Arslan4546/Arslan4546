@@ -19,10 +19,10 @@ My passion for programming languages and frameworks fuels my continuous learning
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="arslan4546" /> </p>
 
 - 🔭 I’m currently working on **[Flutter Projects](https://github.com/arslan4546)**
-- 🌱 I’m currently learning **APIs and State Management**
+- 🌱 I’m currently learning **Backend Development**
 - 👯 I’m looking to collaborate on **interesting projects**
 - 👨‍💻 My complete portfolio is available at [https://github.com/arslan4546](https://github.com/arslan4546)
-- 💬 Ask me about **Dart and Flutter Development**
+- 💬 Ask me about **App Development**
 - 📫 Reach me at **arslantariq4546@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
 
@@ -197,7 +197,6 @@ My passion for programming languages and frameworks fuels my continuous learning
 ### <**Interested in collaborating?>** 
 - 💼 Open for freelance projects
 - 🤝 Looking to contribute to open source
-- 📝 Available for technical writing
 - 🎯 Ready for new challenges and opportunities
 
 *Let's build the future together!* 🚀
