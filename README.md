@@ -135,30 +135,8 @@ My passion for programming languages and frameworks fuels my continuous learning
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arslan4546&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="My GitHub Activity" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/arslan4546">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslan4546&theme=transparent" />
-  </a>
-  <a href="https://github.com/arslan4546">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan4546&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/arslan4546">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arslan4546&theme=transparent" />
-  </a>
-</div>
 
----
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="Footer Banner" />
-</div>
-
-<div align="center">
-  <p>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslan4546&layout=compact&hide=html&theme=dracula"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=arslan4546&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </p>
 
 
 ---
