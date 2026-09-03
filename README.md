@@ -144,16 +144,6 @@ Currently, I'm honing my skills as a junior Flutter Developer, driven by a commi
   </a>
 </p>
 
----
-
-
-<h3 align="center">GitHub Activity</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arslan4546&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="My GitHub Activity" />
-</div>
-
-
-
 
 
 ---
